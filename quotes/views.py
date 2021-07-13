@@ -1,3 +1,4 @@
+#Copyright (c) 2019-2020 Adrian Cascante All Rights Reserved
 from django.shortcuts import render, redirect
 from .models import Stock
 from .forms import StockForm
